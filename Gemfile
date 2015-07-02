@@ -1,5 +1,5 @@
 source :rubygems
-gem 'nokogiri'
+gem 'nokogiri', '> 1.4.0'
 gem 'builder'
 
 group :development do
